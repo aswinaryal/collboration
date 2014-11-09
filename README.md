@@ -1,4 +1,3 @@
-collboration
-============
+# collaboration example repository
 
-this is simple github collaboration
+This is simple github webinar collaborations and workflows.  
